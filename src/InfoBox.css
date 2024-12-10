@@ -1,0 +1,20 @@
+.infobox{
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #e7d8c9;
+  }
+  .report{
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: brown;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+  }
